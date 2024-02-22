@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install react```
+
+prueba del git pull
